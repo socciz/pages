@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pages/static/css/main.61508656.chunk.css",
+    "main.js": "/pages/static/js/main.a14ff269.chunk.js",
+    "main.js.map": "/pages/static/js/main.a14ff269.chunk.js.map",
+    "runtime-main.js": "/pages/static/js/runtime-main.555dd2fc.js",
+    "runtime-main.js.map": "/pages/static/js/runtime-main.555dd2fc.js.map",
+    "static/js/2.55b09f90.chunk.js": "/pages/static/js/2.55b09f90.chunk.js",
+    "static/js/2.55b09f90.chunk.js.map": "/pages/static/js/2.55b09f90.chunk.js.map",
+    "static/js/3.64119a6d.chunk.js": "/pages/static/js/3.64119a6d.chunk.js",
+    "static/js/3.64119a6d.chunk.js.map": "/pages/static/js/3.64119a6d.chunk.js.map",
+    "index.html": "/pages/index.html",
+    "static/css/main.61508656.chunk.css.map": "/pages/static/css/main.61508656.chunk.css.map",
+    "static/js/2.55b09f90.chunk.js.LICENSE.txt": "/pages/static/js/2.55b09f90.chunk.js.LICENSE.txt",
+    "static/media/cassino-img.82baf9a3.jpg": "/pages/static/media/cassino-img.82baf9a3.jpg",
+    "static/media/logo-casino.26939c82.png": "/pages/static/media/logo-casino.26939c82.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.555dd2fc.js",
+    "static/js/2.55b09f90.chunk.js",
+    "static/css/main.61508656.chunk.css",
+    "static/js/main.a14ff269.chunk.js"
+  ]
+}
